@@ -1,2 +1,2 @@
-# minerva-loja
+# anama-loja
 plataforma loja
